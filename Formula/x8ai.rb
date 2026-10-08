@@ -2,9 +2,9 @@
 class X8ai < Formula
   desc "Terminal-first workspace for coding with AI agents"
   homepage "https://github.com/aashirvad08/x8ai-workspace"
-  url "https://github.com/aashirvad08/x8ai-workspace/releases/download/v0.4.0/x8ai-0.4.0-macos.tar.gz"
-  version "0.4.0"
-  sha256 "be396039328b6b32248e51aa27f00843ddebe387c8959b4224f0c398ac3933fa"
+  url "https://github.com/aashirvad08/x8ai-workspace/releases/download/v0.5.0/x8ai-0.5.0-macos.tar.gz"
+  version "0.5.0"
+  sha256 "0157e66d9faec85b9fbab104e600ffde656380d59b2a34a8e05e49d220ca514c"
 
   depends_on :macos
 
